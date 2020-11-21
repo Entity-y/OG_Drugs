@@ -21,23 +21,6 @@
     "use_action": { "type": "consume_drug", "activation_message": "You take some adderall." }
   },
   {
-    "id": "antibiotics",
-    "type": "COMESTIBLE",
-    "comestible_type": "MED",
-    "name": { "str_sp": "antibiotics" },
-    "description": "An antibacterial medication designed to prevent or stop the spread of infection.  It's the safest way to cure any infections you might have.  One dose lasts twelve hours.",
-    "weight": "1 g",
-    "volume": "250 ml",
-    "price": 9000,
-    "price_postapoc": 40000,
-    "charges": 15,
-    "stack_size": 200,
-    "symbol": "!",
-    "color": "white",
-    "use_action": [ "ANTIBIOTIC" ],
-    "flags": [ "NPC_SAFE", "IRREPLACEABLE_CONSUMABLE" ]
-  },
-  {
     "id": "dayquil",
     "type": "COMESTIBLE",
     "comestible_type": "MED",
