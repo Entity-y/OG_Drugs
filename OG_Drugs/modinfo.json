@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "OG_Drugs",
+    "name": "Original Drug Names",
+    "authors": [ "Entity-y" ],
+    "maintainers": [ "" ],
+    "description": "Restores original drug names.",
+    "category": "misc_additions",
+    "dependencies": [ "dda" ]
+  }
+ ]
